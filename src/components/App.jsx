@@ -1,5 +1,5 @@
 import { CssBaseline } from "@mui/material";
-import { BrowserRouter as Route, Router, Switch } from "react-router-dom"
+import { BrowserRouter as Route, Switch } from "react-router-dom"
 
 import useStyles from './styles'
 
